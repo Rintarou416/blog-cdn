@@ -17,5 +17,3 @@ function addNumber(a) {
 // 复制提醒
 document.body.oncopy = function() {layer.msg('复制成功,若要转载请务必保留原文链接！Thanks♪(･ω･)ﾉ', function(){
    });};
-//动态标题
-<script>document.addEventListener('visibilitychange',function(){if(document.visibilityState=='hidden'){normal_title=document.title;document.title='(つェ⊂)我藏好了哦 - Rin404°';}else{document.title=normal_title;}});</script>
