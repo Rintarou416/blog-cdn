@@ -169,7 +169,7 @@ button:hover {
 
 .w3l-error-61-404 .error-61-mian:before {
   content: "";
-  background: rgba(66, 21, 2, 0.45);
+  background: rgb(95 72 131 / 0.5);
   position: absolute;
   top: 0;
   min-height: 100%;
@@ -327,7 +327,7 @@ background:transparent;
 
 @media (max-width:600px) {
   .w3l-error-61-404 .error-61-mian {
-    background: url(../images/banner1.jpg) no-repeat right;
+    background: url(//www.rin404.com/mpic.php) no-repeat right;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
